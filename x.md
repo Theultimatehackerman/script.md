@@ -1,11 +1,17 @@
 
-The Deep Dive Podcast - Episode 1
+## The Deep Dive Podcast - Episode 1
+
 "Shadow Work & Flow States: The Neuroscience of Becoming a Hacker"
+
 Host: 2K² (Devodero)
+
 Guest: Afi0
+
 Runtime: ~60 minutes
+
 Format: Philosophy + Neuroscience + Hacking Hybrid
-Release Date: January 5, 2026
+
+Release Date: January 4, 2026
 
 ## [00:00 - 02:00] COLD OPEN
 
@@ -71,7 +77,7 @@ Afi0, welcome to the show.
 
 **Afi0:** Exactly. That's Kolmogorov complexity, right? You brought that up.
 
-**2K²:** Yeah! So Kolmogorov complexity is basically;what's the shortest possible description of something? If you could compress all your hacking knowledge into its purest, most concise form, what would it look like?
+**2K²:** Yeah! So Kolmogorov complexity is basically; what's the shortest possible description of something? If you could compress all your hacking knowledge into its purest, most concise form, what would it look like?
 
 **Afi0:** One insight. One way of seeing. Not a thousand techniques.
 
