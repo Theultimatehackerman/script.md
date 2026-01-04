@@ -15,17 +15,17 @@ Release Date: January 4, 2026
 
 ## [00:00 - 02:00] COLD OPEN
 
-**2K²:** So wait;you're telling me you found a zero-day in two hours because you were in emotional compression state?
+**2K²:** So wait: you're telling me you found a zero-day in two hours because you were in emotional compression state?
 
 **Afi0:** [laughs] Yeah man. It wasn't about the technique. It was about the state.
 
 **2K²:** The state.
 
-**Afi0:** The state. When your emotions are compressed, they don't distract you anymore. They drive you. It's like Tai Chi;control without stiffness, power without explosion.
+**Afi0:** The state. When your emotions are compressed, they don't distract you anymore. They drive you. It's like Tai Chi: CONTROL without stiffness, power without explosion. You use calm as its own force of nature to move YOU.
 
-**2K²:** That's the most Tai Chi hacker stuff I've ever heard. And they didn't pay you?
+**2K²:** That's the most Tai Chi hacker stuff I've ever heard!
 
-**Afi0:** Silent fix. N/A. Zero dollars.
+**Afi0:** Yup. It is quite interesting
 
 **2K²:** [beat] We're gonna unpack that. Welcome to The Deep Dive.
 
